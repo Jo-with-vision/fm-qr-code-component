@@ -27,7 +27,7 @@ Frontend Mentor's perfect first challenge for those new to the platform or new t
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-using-flexbox-and-custom-properties-YSDidehXWH]()
+- Solution URL: <https://www.frontendmentor.io/solutions/qr-component-using-flexbox-and-custom-properties-YSDidehXWH>
 
 :tada::computer: [Live Preview:](https://jo-with-vision.github.io/fm-qr-code-component/)
 
