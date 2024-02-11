@@ -2,8 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-:tada::computer: [Live Preview:](https://jo-with-vision.github.io/fm-qr-code-component/)
-
 
 ## Table of contents
 
@@ -27,12 +25,13 @@ Frontend Mentor's perfect first challenge for those new to the platform or new t
 ![](images/screenshot.png)
 
 
-### Links (coming soon)
+### Links
 
-- Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-using-flexbox-and-custom-properties-YSDidehXWH]()
 
-## My process (WIP)
+:tada::computer: [Live Preview:](https://jo-with-vision.github.io/fm-qr-code-component/)
+
+## My process 
 
 Included within the Initial commit:
 
