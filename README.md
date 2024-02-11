@@ -43,6 +43,7 @@ Included within the Initial commit:
 4. Included the import for the appropriate Google Font in the CSS.
 5. Declared basic styling for colours as variables in the CSS, using the style guide information.
 6. Added the universal selector and box-sizing set to border-box to make measurements easier.
+7. I added the HTML markup and contents I believed I would need to achieve the solution, based on decisions made when re-building the design in Figma. I also prepared the VH and body width of the page in CSS.
 
 
 ### Built with
